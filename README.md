@@ -1,6 +1,18 @@
 # Escenario:
 - Página para organizar información sobre estudiantes.
 
+# Pasos
+
+### En caso de: Clonar el repositorio de código
+- Ingresar a la carpeta que se creó posteriormente a haber clonado el repositorio
+- Buscar la carpeta .git (de no encontrarla, asegurese que tenga activada la opción de windows de ver carpetas ocultas)
+- Eliminar la carpeta .git
+- Inicializar un nuevo repositorio y continuar con los pasos de los ejercicios.
+
+### En caso de: Descargar el .zip con el código
+- Descomprimir el .zip en la carpeta que desee
+- Inicializar un nuevo repositorio y continuar con los pasos de los ejercicios.
+
 # Consigna:
 - Solucionar los errores y agregar el CSS y HTML en base a lo que se pida en las tareas siguientes logrando tener un aspecto acorde al escenario.
 
